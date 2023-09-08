@@ -18,3 +18,4 @@ or Run by docker compose
 test 
 execute the project using jenkins server
 new add
+data fetched from github to jenkins
