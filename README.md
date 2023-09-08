@@ -19,4 +19,5 @@ test
 execute the project using jenkins server
 new add
 data fetched from github to jenkins
-n
+
+Code get build by the Docker tool.
