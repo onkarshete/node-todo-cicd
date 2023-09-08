@@ -1,5 +1,5 @@
 // Requiring module
-// main JS file
+// main JS file.
 const assert = require('assert');
 
 // We can group similar tests inside a describe block
